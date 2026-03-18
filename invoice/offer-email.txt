@@ -1,8 +1,8 @@
 TO: tampere@rioni.fi
 SUBJECT: Rioni Tampere — uusi verkkosivusto valmis + lasku (399€)
-PREVIEW: https://yef-rioni-tampere.netlify.app
+PREVIEW: https://yassinfennir.github.io/rioni-tampere/
 INVOICE: YEF-2026-015
-DATE: 2026-03-18T02:46:05.437Z
+DATE: 2026-03-18T03:04:31.737Z
 
 Hei!
 
@@ -12,7 +12,7 @@ Tutustuin yrityksenne Rioni Tampere verkkosivustoon ja huomasin, etta siina on p
 
 Siksi tein teille ILMAISEKSI esikatselun uudesta, modernista verkkosivustosta:
 
-👉  https://yef-rioni-tampere.netlify.app
+👉  https://yassinfennir.github.io/rioni-tampere/
 
 Katsokaa rauhassa — tama on tehty juuri teille, eika se maksa mitaan. Halusin nayttaa, milta teidän yrityksenne voi nayttaa verkossa.
 
